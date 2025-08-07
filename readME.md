@@ -52,10 +52,10 @@ Edit
 project-folder/
 │
 ├── lists.py               # Task 1
-├── tuple_books.py         # Task 2
+├── tuples.py              # Task 2
 ├── dictionary.py          # Task 3
-├── sets_common.py         # Task 4
-├── odd_words.py           # Task 5
+├── sets.py                # Task 4
+├── lists2.py              # Task 5
 ├── README.md              # This file
 
 
